@@ -252,7 +252,7 @@ export type Language =
   | "hu" | "hu-HU" | "hu-hu" | "hu-HU.utf-8" | "hu-hu.utf-8" | "magyar" | "hungarian"
   | "zh" | "zh-cn" | "zh-cn.utf-8" | "chinese"
   | "tr" | "tr-tr" | "tr-tr.utf-8" | "turkish"
-  | "ro" | "ro-ro" | "ro-RO" | "ro-ro.utf-8" | "romanian";
+  | "ro" | "ro-ro" | "ro-RO" | "ro-ro.utf-8" | "romanian"
   | "bg" | "bg-bg" | "bg-BG" | "bg-bg.utf-8" | "bulgarian";
 
 export interface DrawLocal {
